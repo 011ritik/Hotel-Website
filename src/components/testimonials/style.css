@@ -1,0 +1,25 @@
+.carousel {
+    position: relative !important;
+ }           
+ .carousel-control-prev , .carousel-control-next {
+    position: absolute !important;
+    top: 110% !important;
+    transform: TranslateY(-70%) !important;
+ }
+ .carousel-control-prev {
+    right: auto;
+    left: 39rem !important;
+ }
+ .carousel-control-next {
+    left: auto;
+    right: 39rem !important;
+ }
+
+
+ .carousel-control-prev, .carousel-control-next{
+    background: #E0B973 !important;
+    width: 40px !important;
+    height: 40px;
+    opacity: 1 !important;
+    border-radius: 5px;
+}

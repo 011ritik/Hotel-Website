@@ -1,0 +1,45 @@
+.room-card {
+    margin: 2rem 0;
+}
+
+.room-card-img {
+    margin: 0 !important;
+}
+
+.room-card-body {
+    padding: 0 !important;
+}
+
+.room-card-des {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 7rem;
+}
+
+.room-card-view {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.room-card-add {
+    width: 20%;
+}
+
+.room-card-title {
+    background: #14274a;
+    color: #fff;
+    text-align: center !important;
+    padding: 2rem;
+    margin: 0 !important;
+}
+
+
+.room-btn{
+    background: #E0B973;
+    border: none;
+}
+
+.room-btn:hover{
+    background: #E0B973;
+}

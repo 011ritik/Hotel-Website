@@ -1,0 +1,74 @@
+.contact-head,
+.contact-body-phone,
+.contact-body-email,
+.contact-body-description,
+.contact-body-addresss  {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-size: 400;
+    color: #14274a;
+}
+
+.contact-head{
+    text-align: center;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 98px;
+    color: #ffffff;
+    background: #14274a;
+    padding: 2rem 0;
+}
+
+.contact-body {
+    margin: 7rem 0 !important;
+}
+
+.contact-body-description-head {
+    font-family: "Abril Fatface";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    color: #14274a;
+    line-height: 0;
+}
+
+.contact-body-description {
+    font-size: 23px;
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+}
+
+.contact-body-addresss,
+.contact-body-phone,
+.contact-body-email,
+.contact-body-map {
+    font-size: 20px;
+    padding: .2rem 0;
+}
+
+.contact-body-map {
+    font-weight: 700;
+    padding-bottom: 1rem;
+    display: flex;
+    gap: 1.5rem;
+}
+
+.contact-body-phone,
+.contact-body-email {
+    padding-top: .2rem;
+    line-height: 0;
+}
+
+.arrow{
+    transform: rotate(180deg);
+}
+
+.contact-btn{
+    float: right;
+    background: #E0B973;
+    border: none;
+}
+
+.contact-btn:hover{
+    background: #E0B973;
+}

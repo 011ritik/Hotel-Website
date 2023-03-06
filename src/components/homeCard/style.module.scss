@@ -1,0 +1,43 @@
+.home-card{
+    flex-direction: row-reverse !important;
+    margin: 3rem 0;
+    border: none !important;
+    border-radius: 0 !important;
+    border-left: 2px solid black !important;
+    // height: 10em !important;
+}
+
+.home-card-img{
+    width: 50% !important;
+}
+
+.home-card-title,.home-card-text{
+    // color: black !important;
+    font-weight: 400;
+}
+
+.home-card-title{
+    font-family: 'Abril Fatface';
+    font-style: normal;
+    font-size: 50px !important;
+    line-height: 81px;
+    letter-spacing: 0.02em;
+    color: #14274A;
+}
+
+.home-card-text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 20px;
+    line-height: 40px;
+    color: #14274A;
+}
+
+.hotel-btn{
+    background: #E0B973 !important;
+    border: none !important;
+    font-size: 20px !important;
+    line-height: 24px !important;
+    letter-spacing: 0.05em !important;
+
+}
